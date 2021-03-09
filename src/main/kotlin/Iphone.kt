@@ -1,0 +1,1 @@
+data class Iphone(val ownerId: Int, val modelNumber: Int, val imei: Int)

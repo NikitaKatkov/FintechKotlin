@@ -1,3 +1,6 @@
 fun main() {
-    println("Hello!")
+    println(findPairedDevicesWithSameOwner())
+    println(sortedPairedDevices())
+    println(groupedPairedDevices())
+    println(countPairedDevicesWithCondition { it.headphones.isProModel })
 }
