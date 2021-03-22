@@ -1,1 +1,0 @@
-data class AirPods(val ownerId: Int, val isProModel: Boolean, val colour: Int)

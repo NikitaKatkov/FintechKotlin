@@ -1,1 +1,0 @@
-data class PairedDevices(val phone: Iphone, val headphones: AirPods)
